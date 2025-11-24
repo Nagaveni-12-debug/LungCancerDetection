@@ -1,0 +1,1 @@
+This project uses deep learning to detect early lung cancer from CT scans. The system preprocesses images, segments lung regions, and identifies suspicious nodules using CNN models. It helps radiologists by providing faster, more accurate detection and highlighting possible cancer regions for early diagnosis.
